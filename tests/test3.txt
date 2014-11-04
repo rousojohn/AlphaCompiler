@@ -1,0 +1,7 @@
+/* KANENA ERROR */
+
+x;
+function f()
+{
+	i=x;
+}

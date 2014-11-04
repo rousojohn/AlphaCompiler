@@ -1,0 +1,8 @@
+/* 1 ERROR */
+
+	x;
+	function f(x)
+	{
+		local x;
+		i=x;
+	}

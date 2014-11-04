@@ -1,0 +1,3 @@
+/* KANENA ERROR */
+
+(function a(x,y){})(o,p);

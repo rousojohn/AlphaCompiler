@@ -1,0 +1,13 @@
+/* 1 ERROR */
+
+	
+	function f(x)
+	{
+		x;
+		i=x;
+		
+		function g()
+		{
+			x;
+		}
+	}

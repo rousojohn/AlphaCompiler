@@ -1,0 +1,13 @@
+/* 2 ERROR */
+
+	
+	function f(x)
+	{
+		local x;
+		i=x;
+		
+		function g()
+		{
+			x;
+		}
+	}

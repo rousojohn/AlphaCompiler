@@ -1,0 +1,8 @@
+/* ERROR */
+{
+	x;
+	function f()
+	{
+		i=x;
+	}
+}

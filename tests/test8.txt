@@ -1,0 +1,14 @@
+/* 1 ERROR */
+
+x;	
+
+	function f(x)
+	{
+		
+		local x;
+		
+		function g()
+		{
+			x;
+		}
+	}

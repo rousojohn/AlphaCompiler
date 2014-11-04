@@ -1,0 +1,10 @@
+/* KANENA ERROR */
+
+
+	function g()
+	{
+		function f()
+		{
+			g();
+		}
+	}

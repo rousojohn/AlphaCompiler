@@ -1,0 +1,8 @@
+/* KANENA ERROR */
+
+function f( x , y )
+{
+	k =10;
+	o = 2;
+	p = 1;
+}

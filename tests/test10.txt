@@ -1,0 +1,3 @@
+/* KANENA ERROR - anonymous function */
+
+(function a(x,y){})(o,p); x;
